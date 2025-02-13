@@ -1,4 +1,5 @@
 # Software Will Never Be Free
+> Faisal Memon 13th February 2025.
 
 This article is about the monetary cost of software, as opposed to the freedoms users might have in using a given piece of software.
 
@@ -67,3 +68,6 @@ Restricting data as a strategy only works if the law can enforce it. Note the pa
 ## Conclusion
 
 We began by looking at the cost of software, ignoring software freedoms. Now let's turn that around and look in the mirror: Is the price of free software the price of our freedom?
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/faisalmemon/Software-Will-Never-Be-Free">Software Will Never Be Free</a> by <span property="cc:attributionName">Faisal Memon</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
