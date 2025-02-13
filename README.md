@@ -14,7 +14,7 @@ So software became cheaper per unit of functionality.
 
 Now the trend is AI-assisted coding (auto-complete on steroids). The next frontier step is Agentic AI (where the prompting process itself is automated; you just specify higher level goals).
 
-But where is the limit?
+**But where is the limit?**
 
 It comes down to the cost per token. If the human contribution diminishes over time, replaced by AI contribution, then AI brings its own underlying cost; the token generation cost.
 
@@ -34,7 +34,7 @@ So let's say software becomes mostly free, or at least very abundant because as 
 
 ### Markets
 
-Who will buy if the product is cheap?
+**Who will buy if the product is cheap?**
 
 Going all the way back to the start of agriculture, there has always been capital-owning, and salary-earning people. There has developed a hierarchy of income. So there are buyers. Fancy a job as a party planner? Those jobs exist, and if you can access an affluent area maybe you can become one.
 
@@ -44,9 +44,9 @@ Now consider the plight of the digital artist. Digital tools, think of Adobe Ill
 
 ## Price failure
 
-But where does it all break down?
+**But where does it all break down?**
 
-If salary earning people are absent, who will buy software?
+**If salary earning people are absent, who will buy software?**
 
 There is a potential catastrophe waiting in the wings. Making cheaper software drives consumption only whilst the hierarchy of incomes across a population is present. But go to an impoverished mining town, and sell your ERP software - see how you fare.
 
